@@ -59,6 +59,6 @@ I enjoy building small projects and constantly improving my skills. Studying fir
 
 ### Statistics
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=romanButkus&theme=github_dark" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=denytat&theme=github_dark" />
 
-[![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=romanButkus&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=denytat&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
