@@ -60,5 +60,3 @@ I enjoy building small projects and constantly improving my skills. Studying fir
 ### Statistics
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=denytat&theme=github_dark" />
-
-[![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=denytat&theme=react-dark)]
