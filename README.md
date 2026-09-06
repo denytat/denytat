@@ -6,14 +6,15 @@
 
 ### I’m learning and working with:
 
-- 💻 C#, .NET (WPF, ASP.NET)
+- 💻 C#, .NET (WPF, ASP.NET),
+- 🤖 MQL5, MetaTrader
 - 🎮 Unity (game development)
 - 🌐 React, Next.js, HTML/CSS
 - 🐍 Python
 - 🗄 SQL Server
 - 🖥️ C++, Arduino, KiCad
 
-I enjoy building small projects and constantly improving my skills. Studying first year in Business College Helsinki.
+I enjoy building small projects and constantly improving my skills. Studying second year in Business College Helsinki.
 
 ---
 
