@@ -61,3 +61,6 @@ I enjoy building small projects and constantly improving my skills. Studying sec
 ### Statistics
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=denytat&theme=github_dark" />
+![](https://github-readme-stats.shion.dev/api?username=p1xlized&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=p1xlized&theme=dark)
+
