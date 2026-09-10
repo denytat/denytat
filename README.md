@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋 My name is Roman</h1>
+<h1 align="left">Roman</h1>
 
-<h3 align="center">Software Developer / Student</h3>
+**Software Developer | Trading programmer | Game Dev | Trader**
 
 ---
 
@@ -14,11 +14,17 @@
 - 🗄 SQL Server
 - 🖥️ C++, Arduino, KiCad
 
-I enjoy building small projects and constantly improving my skills. Studying second year in Business College Helsinki.
-
 ---
 
-### Skills
+### 🌐 Connect
+<!-- Buttons -->
+<p>
+  <a href="https://romanbutkus.dev">
+    <img src="https://img.shields.io/badge/Check_My_Work-000000?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
+
+### 💻 Skills
 
 <div align="left">  
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
@@ -39,7 +45,7 @@ I enjoy building small projects and constantly improving my skills. Studying sec
 
 
 
-### Connect with me
+### ✉️ Connect with me
 
 <div align="left">
 <a href="https://linkedin.com/in/roman-butkus-6ab72b304/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roman-butkus-6ab72b304/" height="30" width="40" /></a>
@@ -51,7 +57,7 @@ I enjoy building small projects and constantly improving my skills. Studying sec
 <a href="https://kaggle.com/romanbutkus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="romanbutkus" height="30" width="40" /></a>
 </div>
 
-### Statistics
+### 📊 Statistics
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=denytat&theme=github_dark" />
 <img src="https://github-readme-stats.shion.dev/api?username=denytat&theme=transparent&hide_border=true&include_all_commits=false&count_private=false"/>
