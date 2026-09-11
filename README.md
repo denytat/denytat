@@ -1,6 +1,6 @@
 <h1 align="left">⚓ Roman</h1>
 
-**Software Developer | Trading programmer | Game Dev | Trader**
+**Software Developer | Trading programmer | Game Dev**
 
 ---
 
